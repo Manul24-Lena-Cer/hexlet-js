@@ -1,13 +1,15 @@
 {
   "name": "hexlet",
   "version": "1.0.0",
-  "type": "module", 
- "description": "Мой первый проект на Хекслете",
+  "type": "module",
+  "description": "Мой первый проект на Хекслете",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.18.1"
+  }
 }
-
